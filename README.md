@@ -31,7 +31,7 @@ Shell scripts are brittle. They assume a specific OS, package manager, directory
 
 | Plan | Description |
 |------|-------------|
-| [LocalWikipedia](LocalWikipedia/IMPLEMENTATION_PLAN.md) | Deploy a self-hosted Wikipedia mirror using Kiwix in Docker, with automated updates |
+| [LocalWikipedia](LocalWikipedia/ImplementationPlan.md) | Deploy a self-hosted Wikipedia mirror using Kiwix in Docker, with automated updates |
 
 ## Contributing
 
